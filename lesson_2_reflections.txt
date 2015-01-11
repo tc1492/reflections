@@ -10,3 +10,6 @@ repository? What value do you think it offers?
 
 The working directory is were all your files are. The staging aread is where
 the files you want to commit exist for the upcoming commit. THe repository is where the changes are going to be tracked and stored. 
+
+***How can you use the staging area to make sure you have one commit per logical change?
+Add only the files with the changes to the staging area then run git diff --staging to see the changes.
