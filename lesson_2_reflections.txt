@@ -1,0 +1,12 @@
+
+***What happens when you initialize a repository? Why do you need to do it?
+
+Git creates a hidden folder within the folder you initialized the repository 
+in. This folder is used to store data for the repository.
+
+
+***How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+
+The working directory is were all your files are. The staging aread is where
+the files you want to commit exist for the upcoming commit. THe repository is where the changes are going to be tracked and stored. 
