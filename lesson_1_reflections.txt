@@ -1,8 +1,8 @@
 ***How did viewing a diff between two versions of a file help you see 
 the bug that was introduced?
 
-It alowed for far fewer things to try an look at. I am not very good
-at visualy comparing text as it is easy to over look the obvious and 
+It allows for far fewer things to try an look at. I am not very good
+at visually comparing text as it is easy to over look the obvious and 
 very tedious. This is for small files that I am talking about. A large 
 file would be nearly impossible and a big waist of time. This compare 
 method is pretty awesome. 
@@ -19,9 +19,9 @@ work back through the changes to rebuild that feature if needed.
 create a commit, like you do in Git, vs having versions automatically 
 saved, like Google docs does?
 
-The pros to submiting manualy is that you have better controly on the
+The pros to submitting manually is that you have better control on the
 granularity of the commits. This enables for logic in the commits. The 
-cons would be that it is easier to forget and not commit with the frequncy
+cons would be that it is easier to forget and not commit with the frequency
 needed.
 
 
@@ -29,23 +29,22 @@ needed.
 multiple files in one commit, while others, like Google Docs, treat each 
 file separately?
 
-These systerms are built for programing that can have more that one
-interrelated files. These interated files need to be commited together
-to easy understanding and working with commits. 
+These systems are built for programing that can have more that one
+interrelated files. These interrelated files need to be committed together
+to ease understanding and working with commits. 
 
 ***How can you use the commands git log and git diff to view the history
  of files?
 
  Get log will show all the comments with the comment and the the get diff
- allows you to see the diffrences between commits.
+ allows you to see the differences between commits.
  
  ***How might using version control make you more confident to make changes 
  that could break something?
 
- It provides a safty net to know how easy it would be to roll back to an earlier 
+ It provides a safety net to know how easy it would be to roll back to an earlier 
  version of the code. So this gives a way to be a little more bold in coding. 
 
 ***Now that you have your workspace set up, what do you want to try using Git for?
 
 Version control for sure. I might use it is an app launcher too.
-
