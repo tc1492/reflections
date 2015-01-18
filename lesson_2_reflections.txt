@@ -8,8 +8,24 @@ in. This folder is used to store data for the repository.
 ***How is the staging area different from the working directory and the 
 repository? What value do you think it offers?
 
-The working directory is were all your files are. The staging aread is where
-the files you want to commit exist for the upcoming commit. THe repository is where the changes are going to be tracked and stored. 
+The working directory is were all your files are. The staging area is where
+the files you want to commit exist for the upcoming commit. The repository is where the changes are going to be tracked and stored. 
 
 ***How can you use the staging area to make sure you have one commit per logical change?
 Add only the files with the changes to the staging area then run git diff --staging to see the changes.
+
+***What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would help with testing new ideas without impacting the existing commit string. 
+
+***How do the diagrams help you visualize the branch structure?
+It helps due to the command line is not visual so by diagramming
+it in this way allows for visualizing these branches without doing 
+it in your head.
+
+***What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Combines the branches. A diagram helps to visualize the changes that will be made.
+
+***What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+ Saves tons of time and reduces errors by taking the human out of what can be automated.
